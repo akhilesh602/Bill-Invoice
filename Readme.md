@@ -1,0 +1,3 @@
+# Bill-Invoice
+<p>A bill invoice app is a software application that enables users to create, manage, and send professional-looking invoices to clients or customers for goods or services provided. It is a digital tool designed to streamline the invoicing process, making it easier to track payments, manage finances, and maintain a record of transactions</p><br>
+<p><strong> Technologies used for this project are Python(Tkinter) and Mysql. Tkinter is a GUI (Graphical User Interface)</strong><p><br>
